@@ -1,0 +1,23 @@
+b {
+    background: yellow;
+    text-decoration: underline;
+}
+
+.gray-bg {
+    background: gray;
+}
+
+span#year {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: aqua;
+}
+
+table,
+th {
+    border: 1px solid black;
+}
